@@ -12,6 +12,8 @@ Feel free to download and use these designs for your TVC model rocket!
 
 - Screw Holes are for m3.5 screws!
 
+- Made for 49mm Engines
+
 ![TVC Mount Render](https://user-images.githubusercontent.com/110515940/184067739-5f6a1ec0-3295-4fe7-8c9d-e6f4df8ecc63.png)
 
 --------------------------------------------------------------------------------------------------------------
