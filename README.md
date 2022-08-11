@@ -6,7 +6,7 @@ Feel free to download and use these designs for your TVC model rocket!
 
 - The TVC mount is made to be used in 74mm airframes only!!
 
-- TVC Mount can go 5 degrees on both the X and the Y axis, TVC Mount also includes a self alinging feature, when pressed down on a flat surface both axis will align to 0 degrees 😎🕶️
+- TVC Mount can go 5 degrees on both the X and the Y axis, TVC Mount also includes a self alinging feature, when pressed down on a flat surface both axis will align to 0 degrees
 
 - Works with 9g Servos only and push rods and links
 
