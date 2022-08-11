@@ -32,7 +32,7 @@ Feel free to download and use these designs for your TVC model rocket!
 
 **Nosecone**
 
-- The Nosecone Is meant to be used in 74mm airframes onyly!!
+- The Nosecone Is meant to be used in 74mm airframes onyl!!
 
 - Screwhole has to be made with drill in the middle for eye hook, or can be made in the design!
 
